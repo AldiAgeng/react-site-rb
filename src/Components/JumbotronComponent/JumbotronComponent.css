@@ -1,0 +1,19 @@
+
+.jumbotron{
+  height: 680px;
+  margin-top: -8px !important;
+}
+.jumbotron img{
+  width: 1519px;
+  height: 620px;
+  filter: brightness(110%);
+}
+
+h1{
+  z-index: 999;
+  position: absolute;
+  top: 350px;
+  left: 300px;
+  color: black;
+  text-shadow: 1px 1px rgb(250, 245, 245);
+}
